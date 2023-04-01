@@ -4,14 +4,21 @@ MergesWordlists
 Simple PowerShell script for merging 2 lists
 
 List1.txt
+
 b
+
 bb
+
 bbb
 
+
 List2.txt
+
 a
 aa
+
 aaa
+
 
 Expected output
 
